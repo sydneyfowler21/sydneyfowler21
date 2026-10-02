@@ -1,7 +1,10 @@
-## Hi there 👋
+### Hi, I'm Sydney Fowler
 
-<!--
+Senior Software Engineer focused on **frontend React / TypeScript** product work, based in Colorado Springs, CO.
 
-I am currently rebuilding my public portfolio following an account recovery issue. Please see my attached resume for an overview of my technical projects, or contact me directly for code samples.
+Recently SSDE II at Pushpay — hands-on tech lead for customer-facing UI, GraphQL/API surfaces, and shared AI tooling the team used day to day.
 
--->
+- LinkedIn: [linkedin.com/in/sydney-fowler-30b80b176](https://www.linkedin.com/in/sydney-fowler-30b80b176)
+- Location: Colorado Springs, CO · Mountain Time
+
+Public sample: [Close frontend exercise](https://github.com/sydneyfowler21/close-frontend-exercise) (also on [JSFiddle](https://jsfiddle.net/sydneyfowler/kyLjs42b/)).
